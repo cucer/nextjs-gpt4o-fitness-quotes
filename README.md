@@ -5,7 +5,7 @@
 </h1>
 
 <p>
-    powered by GPT-40
+    powered by GPT-4o
 </p>
 
 <p>
